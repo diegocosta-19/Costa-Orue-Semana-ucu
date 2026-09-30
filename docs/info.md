@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Danubio Fútbol Club 1932 -- 1988 2004 2009 2014
 
 ## How to test
 
-Explain how to use your project
+Algo
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Nada
